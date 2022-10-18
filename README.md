@@ -1,1 +1,2 @@
 # NotebookEncrypter
+This Notebook which i call it myNoteBook is simply a notebook that means you can type and save a word you may be edit it letter. but the thing is it save it by encrypting the data and make it unreadable so if any one try to read it with other text editor it become hard. I use symmetric encryption to change the text with python well known library for encryption farnet. so we can modify this application to save a password , diary or sensitive informations.
